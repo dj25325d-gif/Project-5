@@ -101,9 +101,9 @@ The application runs continuously until the user exits. Each option demonstrates
 
 📸 **Screenshot — Main Menu**
 
-```
-[Insert Main Menu Screenshot Here]
-```
+
+![](opt1.png)
+
 
 ---
 
@@ -118,9 +118,7 @@ Concepts demonstrated:
 
 📸 **Screenshot — Create Person**
 
-```
-[Insert Option 1 Screenshot Here]
-```
+![](opt1.png)
 
 ---
 
@@ -139,9 +137,7 @@ Concepts demonstrated:
 
 📸 **Screenshot — Create Employee**
 
-```
-[Insert Option 2 Screenshot Here]
-```
+![](opt2.png)
 
 ---
 
@@ -156,9 +152,7 @@ Concepts demonstrated:
 
 📸 **Screenshot — Create Manager**
 
-```
-[Insert Option 3 Screenshot Here]
-```
+![](opt3.png)
 
 ---
 
@@ -176,9 +170,7 @@ Concepts demonstrated:
 
 📸 **Screenshot — Show All Details**
 
-```
-[Insert Option 4 Screenshot Here]
-```
+![](opt4.png)
 
 ---
 
@@ -197,9 +189,7 @@ Concepts demonstrated:
 
 📸 **Screenshot — Show Specific Details**
 
-```
-[Insert Option 5 Screenshot Here]
-```
+![](opt5.png)
 
 ---
 
@@ -209,9 +199,7 @@ Gracefully exits the application and frees resources.
 
 📸 **Screenshot — Exit Message**
 
-```
-[Insert Option 6 Screenshot Here]
-```
+![](opt6.png)
 
 ---
 
